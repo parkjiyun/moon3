@@ -1,10 +1,10 @@
 var solar, bg, earth, moon;
 function setup() {
     createCanvas(1000, 1000);
-	solar = loadImage("sun.gif");
+	solar = loadImage("sun.png");
 	bg = loadImage("bg.jpg");
 	earth = loadImage("earth.gif");
-	moon = loadImage("moon.gif");
+	moon = loadImage("star.gif");
 }
 
 
